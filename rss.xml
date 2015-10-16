@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cardessa]]></title>
+        <description><![CDATA[cardessa]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 16 Oct 2015 22:12:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hi, my name is...]]></title>
+            <description><![CDATA[<article><h1>Hi, my name is...</h1><p>Cardessa Kerr, in a nutshell.</p></article>]]></description>
+            <link>undefinedhi-my-name-is/index.html</link>
+            <guid isPermaLink="false">fb3adf74-2807-4050-9390-0f333b77fcfc</guid>
+            <pubDate>Fri, 16 Oct 2015 22:11:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
